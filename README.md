@@ -1,4 +1,4 @@
-# Ant colony simulation in F#
+# Ant colony simulation in FSharp
 
 "Ant colony simulation in immutable F# with pheromone trails and ad hoc semi natural ant behavior.
 
