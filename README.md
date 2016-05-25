@@ -5,7 +5,7 @@
 Demo project. 
 .NET 4.6
 
-I made this back in 2010 and it is now upgraded to latest dependenden packages and actually is runnable again.
+I made this back in 2010 and it is now runnable again.
 
 Have fun!
 
