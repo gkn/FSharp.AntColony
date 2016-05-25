@@ -7,6 +7,8 @@ Demo project.
 
 I made this back in 2010 and it is now runnable again.
 
+It has only been tested on Windows, currently with Visual Studio 2015.
+
 Have fun!
 
 
